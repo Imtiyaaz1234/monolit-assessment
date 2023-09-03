@@ -1,0 +1,8 @@
+.topBar {
+    background-color: #007BFF; /* Blue color */
+    height: 60px;              /* Set height as required */
+    width: 100%;               /* Full width of the viewport */
+    left: 0;                   /* Starting from the left side */
+    z-index: 1000;             /* To ensure it appears above other elements, adjust as needed */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds a light shadow to the bottom */
+}
